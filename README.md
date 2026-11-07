@@ -1,109 +1,46 @@
-<h1 align="center">Olá 👋, eu sou João Victor</h1>
-
-<p align="center">
-  <strong>Desenvolvedor Full Stack | Estudante de Ciência da Computação</strong>
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>README final</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-dark.min.css">
+<style>body{background:#0d1117;margin:0}.markdown-body{max-width:900px;margin:24px auto;border:1px solid #30363d;border-radius:6px;padding:32px}</style></head><body><article class="markdown-body"><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a1d2a2f0741d938734dcb92a9357a3687dbf2dbedcd9b104ccf65e11d9b5d10/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3743334145442c3130303a323536334542266865696768743d3136302673656374696f6e3d68656164657226746578743d4a6f2543332541336f253230566963746f7226666f6e7453697a653d343226666f6e74436f6c6f723d66666666666626666f6e74416c69676e593d333826646573633d46756c6c253230537461636b253230254532253830254132253230576562253230253236616d702533422532304d6f62696c652532302545322538302541322532304d616368696e652532304c6561726e696e672664657363416c69676e593d3630"><img src="https://camo.githubusercontent.com/7a1d2a2f0741d938734dcb92a9357a3687dbf2dbedcd9b104ccf65e11d9b5d10/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3743334145442c3130303a323536334542266865696768743d3136302673656374696f6e3d68656164657226746578743d4a6f2543332541336f253230566963746f7226666f6e7453697a653d343226666f6e74436f6c6f723d66666666666626666f6e74416c69676e593d333826646573633d46756c6c253230537461636b253230254532253830254132253230576562253230253236616d702533422532304d6f62696c652532302545322538302541322532304d616368696e652532304c6561726e696e672664657363416c69676e593d3630" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:2563EB&amp;height=160&amp;section=header&amp;text=Jo%C3%A3o%20Victor&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20%E2%80%A2%20Web%20%26amp%3B%20Mobile%20%E2%80%A2%20Machine%20Learning&amp;descAlignY=60" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/jvictor-melo/" rel="nofollow"><img src="https://camo.githubusercontent.com/f5203af5876764169366e1191881aeb0721930a186a72b714e6d77336602ffd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3041363643323f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="mailto:jvmacedo.dev@gmail.com"><img src="https://camo.githubusercontent.com/a13d5e4ecdcf2f418cb90d8f45ca3f8a9ed24e982b74e0c1e15744338de6ca0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d4431343833363f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaovictormmelo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:jvmacedo.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-### 👨‍💻 Sobre mim
-
-- 🎓 Cursando **Ciência da Computação** (6º período).
-- 🧩 Trabalho principalmente com o ecossistema **JavaScript**: React, Node.js e React Native.
-- 🤖 Gosto de construir coisas que **automatizam processos** e conversam com APIs externas.
-- 🧠 Muito interessado em **Inteligência Artificial, machine learning e redes neurais** — é pra onde eu quero puxar minha carreira.
-- 🎮 Faço jogos em **Godot** por hobby — é onde eu treino lógica sem pressão.
-
----
-
-### 🛠️ Tecnologias e ferramentas
-
-**Frontend & Mobile**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-**Backend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Banco de dados & Infra**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-**Outros**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-</p>
-
----
-
-### 🚀 Projetos em destaque
-
-**🤖 [Bot de Vendas para Telegram](https://github.com/jvictor-melo/telegram-bot-test)** — 🚧 *em desenvolvimento*
-Bot de vendas pelo Telegram com painel administrativo completo: cadastro e edição de pacotes por wizard, upload de mídia, ativação/desativação de produtos e proteção contra exclusão de pacote com pedido vinculado. Banco em container com migrations versionadas. **Em andamento:** fluxo de compra com cobrança via PIX e liberação automática de acesso.
-`Node.js` `Telegraf` `PostgreSQL` `Docker` `Mercado Pago API`
-
-**🥋 [FECAPI](https://github.com/jvictor-melo/FECAPI)**
-Sistema full stack de gestão de campeonatos: cadastro de competidores, categorias, rodadas, notas e punições, com autenticação de usuários.
-`React` `Vite` `Node.js` `Express` `SQLite`
-
-**🧠 [SIPWebAI](https://github.com/jvictor-melo/SIPWebAI)**
-Aplicação web com backend autenticado por JWT e um módulo separado de Machine Learning em Python, servido como API própria.
-`Node.js` `Express` `MySQL` `JWT` `Python`
-
----
-
-### 📚 Aprendendo agora
-
-- Aprofundando **Python** para automação e análise de dados
-- Fundamentos de **machine learning** e como treinar uma rede neural na prática
-- Boas práticas de backend: testes automatizados, Docker e deploy
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvictor-melo&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=60A5FA&text_color=E5E7EB&bg_color=0D1117" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jvictor-melo&hide_border=true&ring=A78BFA&fire=F472B6&currStreakLabel=60A5FA&background=0D1117&stroke=A78BFA&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictor-melo&layout=compact&hide_border=true&title_color=A78BFA&text_color=E5E7EB&bg_color=0D1117" alt="Linguagens mais usadas" />
-</p>
-
----
-
-<p align="center">
-  <em>Construindo, quebrando e reconstruindo — é assim que aprende.</em>
-</p>
+<h2 dir="auto">👋 Sobre mim</h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f8919e7054c972a73e5b3946f4d241fd1cef173f3ea5b81d4c955dc91050814/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3530302673697a653d31382670617573653d3132303026636f6c6f723d413738424641267643656e7465723d747275652677696474683d343830266c696e65733d446573656e766f6c7665646f722b46756c6c2b537461636b3b5765622532432b6d6f62696c652532432b415049732b652b626f74733b4d616368696e652b4c6561726e696e672b636f6d2b507974686f6e"><img src="https://camo.githubusercontent.com/2f8919e7054c972a73e5b3946f4d241fd1cef173f3ea5b81d4c955dc91050814/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3530302673697a653d31382670617573653d3132303026636f6c6f723d413738424641267643656e7465723d747275652677696474683d343830266c696e65733d446573656e766f6c7665646f722b46756c6c2b537461636b3b5765622532432b6d6f62696c652532432b415049732b652b626f74733b4d616368696e652b4c6561726e696e672b636f6d2b507974686f6e" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1200&amp;color=A78BFA&amp;vCenter=true&amp;width=480&amp;lines=Desenvolvedor+Full+Stack;Web%2C+mobile%2C+APIs+e+bots;Machine+Learning+com+Python" style="max-width: 100%;"></a></p>
+<ul dir="auto">
+<li>🎓 Cursando <strong>Ciência da Computação</strong> (6º período)</li>
+<li>💻 Desenvolvo de ponta a ponta: <strong>sistemas web, apps mobile, APIs e bots</strong>, principalmente com <strong>TypeScript, React e Node.js</strong></li>
+<li>🧠 Puxando minha carreira para <strong>IA, Machine Learning e ciência de dados</strong></li>
+<li>🎮 Também desenvolvo jogos em <strong>Godot</strong>, onde exercito lógica e game design</li>
+</ul>
+<h2 dir="auto">⚡ Projetos</h2>
+<markdown-accessiblity-table><table role="table">
+  <tbody><tr>
+    <td width="50%" valign="top">
+      <h3 dir="auto">🏥 <a href="https://github.com/jvictor-melo/smarthealth">SmartHealth</a></h3>
+      App mobile que encontra unidades de saúde próximas, com mapa, horários, serviços e rotas, a partir dos dados abertos do CNES.<br><br>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/241aaad15e1db90a3c0e6010d052615efc5b2b3f54eba2f29446c0b6b2b2ec0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c74732c6e6f64656a732c706f7374677265732c646f636b6572267468656d653d6461726b"><img src="https://camo.githubusercontent.com/241aaad15e1db90a3c0e6010d052615efc5b2b3f54eba2f29446c0b6b2b2ec0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c74732c6e6f64656a732c706f7374677265732c646f636b6572267468656d653d6461726b" height="32" data-canonical-src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,docker&amp;theme=dark" style="max-width: 100%; height: auto; max-height: 32px;"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 dir="auto">🦟 <a href="https://github.com/jvictor-melo/dengue-teresina-ml">Dengue em Teresina</a> 🚧</h3>
+      Previsão semanal de casos de dengue em Teresina (PI) cruzando o InfoDengue com o clima do INMET.<br><br>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ebac7b7328f9ed0a484451c12ee38d624902a62df783d0ea9258e313adc821b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e267468656d653d6461726b"><img src="https://camo.githubusercontent.com/0ebac7b7328f9ed0a484451c12ee38d624902a62df783d0ea9258e313adc821b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e267468656d653d6461726b" height="32" data-canonical-src="https://skillicons.dev/icons?i=python&amp;theme=dark" style="max-width: 100%; height: auto; max-height: 32px;"></a> <code class="notranslate">pandas</code> <code class="notranslate">Jupyter</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 dir="auto">🤖 <a href="https://github.com/jvictor-melo/Telegram-Bot">Bot de Vendas</a> 🚧</h3>
+      Bot de Telegram com painel admin, migrations versionadas e cobrança via PIX.<br><br>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e40ecf7aecb14692932fec0fb7b4d4d8ae7d3968fcb0c9c9991639f8ea9d4395/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c706f7374677265732c646f636b6572267468656d653d6461726b"><img src="https://camo.githubusercontent.com/e40ecf7aecb14692932fec0fb7b4d4d8ae7d3968fcb0c9c9991639f8ea9d4395/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c706f7374677265732c646f636b6572267468656d653d6461726b" height="32" data-canonical-src="https://skillicons.dev/icons?i=nodejs,postgres,docker&amp;theme=dark" style="max-width: 100%; height: auto; max-height: 32px;"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 dir="auto">🥋 <a href="https://github.com/jvictor-melo/FECAPI">FECAPI</a></h3>
+      Gestão de campeonatos: competidores, categorias, rodadas, notas e punições.<br><br>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/294708e2d5b9f3df3c5827df59a3f89ca912813fcc6cebfa232d5a4909912d61/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c766974652c6e6f64656a732c657870726573732c73716c697465267468656d653d6461726b"><img src="https://camo.githubusercontent.com/294708e2d5b9f3df3c5827df59a3f89ca912813fcc6cebfa232d5a4909912d61/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c766974652c6e6f64656a732c657870726573732c73716c697465267468656d653d6461726b" height="32" data-canonical-src="https://skillicons.dev/icons?i=react,vite,nodejs,express,sqlite&amp;theme=dark" style="max-width: 100%; height: auto; max-height: 32px;"></a>
+    </td>
+  </tr>
+</tbody></table></markdown-accessiblity-table>
+<p dir="auto"><sub>Também: <a href="https://github.com/jvictor-melo/SIPWebAI">SIPWebAI</a> — web app com módulo de ML em Python servido como API.</sub></p>
+<h2 dir="auto">🛠️ Ferramentas</h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92b5c2f87dfb056efe26bbcda8f50526bb6a186c4138714fba33a5b8bfeb262d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74732c6a732c72656163742c6e6f64656a732c657870726573732c707974686f6e2c706f7374677265732c6d7973716c2c646f636b65722c6769742c656c656374726f6e2c676f646f74267468656d653d6461726b267065726c696e653d3132"><img src="https://camo.githubusercontent.com/92b5c2f87dfb056efe26bbcda8f50526bb6a186c4138714fba33a5b8bfeb262d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74732c6a732c72656163742c6e6f64656a732c657870726573732c707974686f6e2c706f7374677265732c6d7973716c2c646f636b65722c6769742c656c656374726f6e2c676f646f74267468656d653d6461726b267065726c696e653d3132" data-canonical-src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,python,postgres,mysql,docker,git,electron,godot&amp;theme=dark&amp;perline=12" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c8b284e3bc7d369b4f787900568f80c867c6a151c43ab485b573ac33d36bfc63/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3235363345422c3130303a374333414544266865696768743d3130302673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/c8b284e3bc7d369b4f787900568f80c867c6a151c43ab485b573ac33d36bfc63/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3235363345422c3130303a374333414544266865696768743d3130302673656374696f6e3d666f6f746572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,100:7C3AED&amp;height=100&amp;section=footer" style="max-width: 100%;"></a></p></article></body></html>
