@@ -36,7 +36,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker&theme=dark" height="32" />
     </td>
     <td width="50%" valign="top">
-      <h3>🥋 <a href="https://github.com/jvictor-melo/FECAPI">FECAPI</a></h3>
+      <h3>🥋 <a href="https://github.com/LucasAll-dev/FECAPI">FECAPI</a></h3>
       Gestão de campeonatos: competidores, categorias, rodadas, notas e punições.<br/><br/>
       <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,sqlite&theme=dark" height="32" />
     </td>
